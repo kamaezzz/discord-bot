@@ -1,0 +1,23 @@
+{
+  "name": "koteczki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.0.2",
+    "ms": "^2.1.3",
+    "node-cron": "^4.2.1"
+  }
+}
